@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "assignmentnew"
+    }
+  },
+  "defaultProject": "assignmentnew",
+  "cli": {
+    "analytics": "4ec0f773-be5f-4add-a23a-799ee4cdedbf"
+  }
 }
